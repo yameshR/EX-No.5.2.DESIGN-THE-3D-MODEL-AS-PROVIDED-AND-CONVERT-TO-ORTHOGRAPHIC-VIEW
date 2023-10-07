@@ -36,7 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
-![WhatsApp Image 2023-09-26 at 09 26 56](https://github.com/yameshR/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/119389433/ca66ca31-2659-4282-9d86-c873bfba1005)
+![WhatsApp Image 2023-09-26 at 09 27 27_91d02f9f](https://github.com/yameshR/EX-No.5.2.DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/119389433/3d755402-dfcb-4454-9565-f2739c57a2af)
 
 
 ## RESULT:
